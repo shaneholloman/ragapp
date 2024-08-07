@@ -1,5 +1,11 @@
 # ragbox
 
+## 0.0.21
+
+### Patch Changes
+
+- 50d606b: Fix missing authentication for management api
+
 ## 0.0.20
 
 ### Patch Changes
