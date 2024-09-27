@@ -1,5 +1,12 @@
 # ragbox
 
+## 0.1.3
+
+### Patch Changes
+
+- df326d7: Fix name of agent as tool include special characters
+- e4d7a91: Bump llama_index to version 0.11.11
+
 ## 0.1.2
 
 ### Patch Changes
